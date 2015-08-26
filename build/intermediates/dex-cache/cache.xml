@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Udacity\ProjectZero\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Android\Udacity\ProjectZero\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-20ac034e843ba107c41a1aaeb1879bfe86d49c07.jar" />
+    </item>
+    <item
+        jar="D:\Android\Udacity\ProjectZero\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Android\Udacity\ProjectZero\app\build\intermediates\pre-dexed\debug\classes-d348af8a0b6b5b5ad2143cb8e07a01d46f1fa1e7.jar" />
+    </item>
+    <item
+        jar="E:\Developer_Lokesh\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Android\Udacity\ProjectZero\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b30a43f583cfd3f34e4ee91a4d4b18538f7887d7.jar" />
+    </item>
+    <item
+        jar="D:\Android\Udacity\ProjectZero\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Android\Udacity\ProjectZero\app\build\intermediates\pre-dexed\debug\classes-12ce5cc53175dcaec6a99af69413c5643fd05467.jar" />
+    </item>
+
+</items>
